@@ -1,0 +1,5 @@
+__pycache__/
+*.tmp
+.checklist-*
+CONTEXT.md
+log.md

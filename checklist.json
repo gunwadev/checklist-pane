@@ -1,0 +1,30 @@
+{
+  "title": "checklist-pane",
+  "items": [
+    {
+      "text": "Render a JSON checklist in a pane",
+      "note": "curses, no dependencies",
+      "done": true
+    },
+    {
+      "text": "Reload when the file changes on disk",
+      "note": "so an agent can edit it live",
+      "done": true
+    },
+    {
+      "text": "Toggle items with space",
+      "note": "writes back atomically",
+      "done": true
+    },
+    {
+      "text": "Launcher that splits a herdr pane",
+      "note": "ratio is the share kept by the split pane; invert it",
+      "done": true
+    },
+    {
+      "text": "Try it against a real checklist",
+      "note": "a folder you actually work in",
+      "done": false
+    }
+  ]
+}
